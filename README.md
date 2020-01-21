@@ -3,6 +3,7 @@
 [![NPM version](https://img.shields.io/npm/v/create-nuxt-app.svg?style=flat)](https://npmjs.com/package/create-nuxt-app)
 [![NPM downloads](https://img.shields.io/npm/dm/create-nuxt-app.svg?style=flat)](https://npmjs.com/package/create-nuxt-app)
 [![CircleCI](https://img.shields.io/circleci/project/github/nuxt/create-nuxt-app/master.svg?style=flat)](https://circleci.com/gh/nuxt/create-nuxt-app/master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffirefanda%2Fcreate-nuxt-app.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffirefanda%2Fcreate-nuxt-app?ref=badge_shield)
 
 > Create a [Nuxt.js](https://github.com/nuxt/nuxt.js) project in seconds
 
@@ -88,3 +89,7 @@ yarn create nuxt-app <my-project> --edge
 - [egoist](https://github.com/egoist)
 - [clarko](https://github.com/clarkdo)
 - All our contributors ([list](https://github.com/nuxt/create-nuxt-app/contributors)).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffirefanda%2Fcreate-nuxt-app.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffirefanda%2Fcreate-nuxt-app?ref=badge_large)
