@@ -3200,7 +3200,7 @@ mem@^4.0.0:
     mimic-fn "^1.0.0"
     p-is-promise "^2.0.0"
 
-meow@^3.3.0, meow@^3.7.0:
+meow@^3.3.0:
   version "3.7.0"
   resolved "https://registry.npmjs.org/meow/-/meow-3.7.0.tgz#72cb668b425228290abbfa856892587308a801fb"
   integrity sha1-cstmi0JSKCkKu/qFaJJYcwioAfs=
@@ -4645,12 +4645,11 @@ strip-outer@^1.0.0:
   dependencies:
     escape-string-regexp "^1.0.2"
 
-superb@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.npmjs.org/superb/-/superb-2.0.0.tgz#e0ac0c02b35c0ae34f141c594e19c1bf1c567d7f"
-  integrity sha1-4KwMArNcCuNPFBxZThnBvxxWfX8=
+superb@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/superb/-/superb-3.0.0.tgz#d29a17cf090f4658813c8debbb89033d3f1cf5bb"
+  integrity sha512-2N5f/nIVjOM5NimhLr9+KPPRo2OAtTVIxxshyOrBQsteUhCZJo7a+0I5TG/yt32v0hzOjXuxnUiHEWwYiPpVfg==
   dependencies:
-    meow "^3.7.0"
     unique-random-array "^1.0.0"
 
 supertap@^1.0.0:
